@@ -1,5 +1,5 @@
 import App from "next/app";
-import { Context, initialRender } from './context/sse.context';
+import { Context, initialRender } from '../context/sse.context';
 
 
 export default function MyApp({ Component, pageProps }) {
